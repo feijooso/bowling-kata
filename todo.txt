@@ -1,0 +1,12 @@
+
+consecutive strikes
+spare and then strike
+casos borde
+    slots extra 
+        con pair
+        con strike
+    slot con -/
+    ultimo slot con doble strike
+
+
+

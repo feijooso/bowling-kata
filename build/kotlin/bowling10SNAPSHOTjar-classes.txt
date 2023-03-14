@@ -1,0 +1,1 @@
+C:\404\katas\bowling\build\classes\kotlin\main\BowlingScorer.class;C:\404\katas\bowling\build\classes\kotlin\main\Frame.class;C:\404\katas\bowling\build\classes\kotlin\main\Line.class
